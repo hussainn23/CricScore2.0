@@ -1,8 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme for dark mode -->
     <style name="Base.Theme.CricScore.Night" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Set the same primary color for the toolbar (ActionBar) -->
-<!--        <item name="colorPrimary">@color/your_toolbar_color</item>-->
 
         <!-- Set the color of the toolbar icons and text -->
         <item name="colorOnPrimary">@color/your_toolbar_text_color</item>
