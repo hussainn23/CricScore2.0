@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328572501676",
+    "project_id": "cric-score-dcce4",
+    "storage_bucket": "cric-score-dcce4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328572501676:android:6984d781779131ff28e909",
+        "android_client_info": {
+          "package_name": "com.enfotrix.cricscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQ9l3wU7upWLN6v7umfeye5pmaqXJcQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="My Teams"
+        android:id="@+id/myTeamsFragment"
+        android:icon="@drawable/icon_team"
+        />
+
+        <item
+        android:title="Start Match"
+        android:id="@+id/startMatch"
+        android:icon="@drawable/play"
+        />
+
+
+    <item
+        android:title="My Matches"
+        android:id="@+id/myMatchesFragment"
+        android:icon="@drawable/match_icon"
+        />
+
+    <item
+        android:title="My Tournaments"
+        android:id="@+id/myTournamentsFragment"
+        android:icon="@drawable/tournament_icon"
+        />
+
+
+    <item
+        android:title="My Clubs"
+        android:id="@+id/clubFragment"
+        android:icon="@drawable/clubs_icon"
+        />
+
+</menu>
